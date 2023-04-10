@@ -1,0 +1,4 @@
+name: auto-decrypt
+runtime: go
+backend:
+  url: file:///workspace

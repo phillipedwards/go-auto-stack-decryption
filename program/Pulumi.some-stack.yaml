@@ -1,0 +1,5 @@
+encryptionsalt: v1:gCFEhvp4EIk=:v1:ESfczFNV54z23OrS:ld/QUl4psOeWPZ2hFSJMh3QIB6exFw==
+config:
+  auto-decrypt:bar:
+    secure: v1:6ORVeTHVkj2jHTsP:OWs5yhM8o3LJTQuvvmSEj1tZkQ==
+  auto-decrypt:foo: foo

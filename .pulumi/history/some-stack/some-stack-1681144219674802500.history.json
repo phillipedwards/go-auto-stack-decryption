@@ -1,0 +1,18 @@
+{
+    "kind": "update",
+    "startTime": 1681144212,
+    "message": "",
+    "environment": {
+        "exec.kind": "auto.local",
+        "updatePlan": "false"
+    },
+    "config": {
+        "auto-decrypt:bar": {
+            "secure": "v1:6ORVeTHVkj2jHTsP:OWs5yhM8o3LJTQuvvmSEj1tZkQ=="
+        },
+        "auto-decrypt:foo": "foo"
+    },
+    "version": 0,
+    "result": "failed",
+    "endTime": 1681144219
+}
